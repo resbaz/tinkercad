@@ -1,5 +1,5 @@
 # tinkercad
-open training curriculum for teaching tinkercad, please contribute, share and reshare!
+This training curriculum is openly license for anyone who wants to teach tinkercad, 3DTin, OpenSCAD or any other geometry based 3D printing drawing / modelling design tool. Tlease contribute, share and reshare!
 
 Table of Contents:
   * Learning objectives: brains+napkins = the power of creative people fighting like family.

@@ -17,4 +17,5 @@ Table of Contents:
    * Challenge (C)
   *  Lesson no.4
    * Challenge (D)
-  * 
+  *  Lesson no.5
+   * Challenge (E)
